@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Иванов Иван Иванович</name>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Романов Роман Романович</name>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Сидоров Сидор Сидорович</name>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Макуха Тимур Борисович</name>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Лукина Ульяна Артемьевна</name>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Тимуров Тимур Тимурович</name>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Тимуров Тимур Тимурович</name>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Тимуров Тимур Тимурович</name>
+    </student>
+</students>
